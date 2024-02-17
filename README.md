@@ -28,3 +28,12 @@ Utilise JavaFX, structurée autour d'un `MainController` orchestrant les interac
 
 ## Conclusion
 Notre travail combine théorie des graphes et développement Java pour simplifier les trajets dans le métro parisien, démontrant la puissance des algorithmes de graphes dans des applications concrètes. 🚀
+
+<br><p>Première interface : Quand on cherche une station sur la map interractive des stations de Paris.</p><br>
+<img src="Img/map_search.PNG" alt="" align="left">
+<br><p>Illustration de l'itinéraire quand on valide les deux stations : </p><br>
+<img src="Img/map_end.PNG" alt="" align="left">
+<br><p>Deuxième interface : Quand on utilise la fonctionnalité de recherche</p><br>
+<img src="Img/search_start.PNG" alt="" align="left">
+<br><p>Illustration de l'itinéraire de la deuxième interface</p><br>
+<img src="Img/search_end" alt="" align="left">
