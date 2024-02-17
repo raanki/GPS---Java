@@ -1,0 +1,20 @@
+# Utiliser une image Ubuntu comme base
+FROM ubuntu:latest
+
+# Installer OpenJDK et JavaFX
+RUN apt-get update && \
+    apt-get install -y openjdk-11-jdk && \
+    apt-get install --reinstall -y openjfx
+
+# Copier le fichier .java dans le conteneur
+COPY src src/
+COPY file/ src/file/
+
+# Définir le répertoire de travail dans le conteneur
+WORKDIR src/
+
+# Compiler le fichier Main.java
+RUN javac -encoding UTF-8 --module-path /usr/share/openjfx/lib --add-modules javafx.controls,javafx.fxml src/Main.java
+
+# Exécuter le fichier compilé
+CMD ["java", "--module-path", "/usr/share/openjfx/lib", "--add-modules", "javafx.controls,javafx.fxml", "src.Main"]

@@ -1,0 +1,136 @@
+
+#ResetMap:hover,  #BtnResetTrajet:hover {
+    -fx-cursor: hand !important;
+    -fx-background-color: derive(#13678A, 20%) !important;
+}
+
+#BtnSourceStation:hover{
+    -fx-cursor: hand !important;
+    -fx-background-color: derive(#03A64A, 20%) !important;
+}
+
+#BtnDestStation:hover {
+    -fx-cursor: hand !important;
+    -fx-background-color: derive(#A64F03, 20%) !important;
+}
+
+#BtnDestStation:hover {
+    -fx-cursor: hand !important;
+    -fx-background-color: derive(#A64F03, 20%) !important;
+}
+#BtnCheckTrajet:hover {
+    -fx-cursor: hand !important;
+    -fx-background-color: derive(#03A64A, 20%) !important;
+}
+#BtnResetTrajetSearch:hover {
+    -fx-cursor: hand !important;
+    -fx-background-color: derive(#13678A, 20%) !important;
+}
+
+
+.btnMenu:hover {
+    -fx-cursor: hand !important;
+    -fx-background-color: derive(#3D3D3D, 20%) !important;
+}
+
+#PaneID {
+    -fx-cursor: grab !important;
+}
+
+#PaneID:pressed {
+    -fx-cursor: grabbing !important;
+}
+
+.RondMetro {
+    -fx-padding: 5px 12px 5px 12px !important;
+    -fx-background-radius: 50px !important;
+    -fx-border-radius: 50px !important;
+    -fx-border-width: 1px !important;
+    -fx-border-color: black !important;
+    -fx-margin: 30px 30px 30px 100px !important;
+    -fx-font-weight: bold !important;
+    -fx-font-size: 16px !important;
+}
+
+.dotLabel {
+    -fx-font-size: 27px !important;
+    -fx-font-weight: bold !important;
+}
+
+.imgCheck {
+    -fx-background-radius: 50px !important;
+    -fx-border-radius: 50px !important;
+    -fx-border-width: 1px !important;
+    -fx-border-color: black !important;
+    -fx-background-color: #00B232 !important;
+}
+.imgCross {
+    -fx-background-radius: 50px !important;
+    -fx-border-radius: 50px !important;
+    -fx-border-width: 1px !important;
+    -fx-border-color: black !important;
+    -fx-background-color: #B20000 !important;
+}
+
+.ligne1 {
+    -fx-background-color: #FFCE00 !important;
+}
+.ligne2 {
+    -fx-background-color: #0064B0 !important;
+}
+.ligne3 {
+    -fx-background-color: #9F9825 !important;
+}
+.ligne3bis {
+    -fx-background-color: #98D4E2 !important;
+}
+.ligne4 {
+    -fx-background-color: #C04191 !important;
+}
+.ligne5 {
+    -fx-background-color: #F28E42 !important;
+}
+.ligne6 {
+    -fx-background-color: #83C491 !important;
+}
+.ligne7 {
+    -fx-background-color: #F3A4BA !important;
+}
+.ligne7bis {
+    -fx-background-color: #83C491 !important;
+}
+.ligne8 {
+    -fx-background-color: #CEADD2 !important;
+}
+.ligne9 {
+    -fx-background-color: #D5C900 !important;
+}
+.ligne10 {
+    -fx-background-color: #E3B32A !important;
+}
+.ligne11 {
+    -fx-background-color: #8D5E2A !important;
+}
+.ligne12 {
+    -fx-background-color: #00814F !important;
+}
+.ligne13 {
+    -fx-background-color: #98D4E2 !important;
+}
+.ligne14 {
+    -fx-background-color: #662483 !important;
+}
+.ligne15 {
+    -fx-background-color: #B90845 !important;
+}
+.ligne16 {
+    -fx-background-color: #F3A4BA !important;
+}
+.ligne17 {
+    -fx-background-color: #D5C900 !important;
+}
+.ligne18 {
+    -fx-background-color: #00A88F !important;
+}
+
+

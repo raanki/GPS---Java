@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="javafx-swt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/lib/javafx-swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/lib/javafx.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/lib/javafx.controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/lib/javafx.fxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/lib/javafx.graphics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/lib/javafx.media.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/lib/javafx.swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/lib/javafx.web.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/lib" />
+      <root url="file://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/lib" />
+      <root url="file://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/lib" />
+      <root url="file://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/lib" />
+      <root url="file://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/lib" />
+      <root url="file://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/lib" />
+      <root url="file://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/lib" />
+      <root url="file://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/lib" />
+      <root url="file://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/lib" />
+      <root url="file://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/lib" />
+      <root url="file://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/lib" />
+      <root url="file://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/lib" />
+      <root url="file://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/lib" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/src.zip!/javafx.base" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/src.zip!/javafx.controls" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/src.zip!/javafx.fxml" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/src.zip!/javafx.graphics" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/src.zip!/javafx.media" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/src.zip!/javafx.swing" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-sdk-21.0.1-mac/src.zip!/javafx.web" />
+    </SOURCES>
+  </library>
+</component>

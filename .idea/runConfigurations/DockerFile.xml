@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="DockerFile" type="docker-deploy" factoryName="dockerfile" editBeforeRun="true" activateToolWindowBeforeRun="false" server-name="Docker">
+    <deployment type="dockerfile">
+      <settings>
+        <option name="buildKitEnabled" value="true" />
+        <option name="containerName" value="" />
+        <option name="sourceFilePath" value="DockerFile" />
+      </settings>
+    </deployment>
+    <method v="2" />
+  </configuration>
+</component>
